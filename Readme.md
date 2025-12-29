@@ -1,10 +1,10 @@
- #**Modelagem de Banco de Dados para E-commerce**
+ # **Modelagem de Banco de Dados para E-commerce**
 
- ###Este projeto apresenta o modelo de dados para um ecossistema de e-commerce, abrangendo desde a gestão de clientes (PF/PJ) e pagamentos até o controle de estoque e fornecedores.
+ ### Este projeto apresenta o modelo de dados para um ecossistema de e-commerce, abrangendo desde a gestão de clientes (PF/PJ) e pagamentos até o controle de estoque e fornecedores.
 
  ![Diagrama do Banco de Dados](./Model/Modelo-e-commerce.png)
 
- ##Destaques da Modelagem:
+ ## **Destaques da Modelagem:**
 
  **Especialização de Clientes:** Diferenciação entre Pessoa Física (CPF) e Pessoa Jurídica (CNPJ).
 
